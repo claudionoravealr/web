@@ -293,9 +293,10 @@ figure{
     padding: 10px;
   }
 
-  .rounded-image {
+ .rounded-image {
     border-radius: 50%;
-    width: 150px;
+    width: 150px; /* Defina aqui o tamanho desejado */
+    height: 150px;
   }
 
   .image-container-col {
